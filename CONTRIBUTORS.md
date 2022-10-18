@@ -8,3 +8,9 @@
 - Place: Hyderabad, Telangana, India
 - Bio: B.Tech 3rd Year Student.
 - GitHub: [Md Najeeb](https://github.com/najeebdev98)
+
+
+#### Name: Md Asif Iqubal
+- Place: Muzaffarpur, Bihar, India
+- Bio: B.Tech 3rd Year Student, Struggling in life.
+- GitHub: [Md Najeeb](https://github.com/iqubal0612)
