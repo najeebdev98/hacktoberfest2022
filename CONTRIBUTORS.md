@@ -20,3 +20,9 @@
 - Place: Muzaffarpur, Bihar, India
 - Bio: B.Tech 3rd Year Student, Struggling in life.
 - GitHub: [Md Najeeb](https://github.com/iqubal0612)
+
+
+#### Name: Ayesha
+- Place: Hyderabad, Telangana, India
+- Bio: An engineering Student, Struggling in life.
+- GitHub: [khaayesha](https://github.com/khaayesha)
