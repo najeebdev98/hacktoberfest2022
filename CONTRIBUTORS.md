@@ -30,4 +30,20 @@
 #### Name: Sadiya
 - Place: Hyderabad, Telangana, India
 - Bio: B.Tech 1st Year Student.
-- GitHub: [Md Najeeb](https://github.com/techsadiya)
+- GitHub: [Sadiya](https://github.com/techsadiya)
+
+
+
+
+
+
+
+
+
+
+
+
+#### Name: Md Aurangzeb Imam
+- Place: Hyderabad, Telangana, India
+- Bio: B.Tech 3rd Year Student.
+- GitHub: [Md Aurangzeb Imam](https://github.com/mai8409)
