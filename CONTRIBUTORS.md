@@ -26,3 +26,8 @@
 - Place: Hyderabad, Telangana, India
 - Bio: An engineering Student, Struggling in life.
 - GitHub: [khaayesha](https://github.com/khaayesha)
+
+#### Name: Sadiya
+- Place: Hyderabad, Telangana, India
+- Bio: B.Tech 1st Year Student.
+- GitHub: [Md Najeeb](https://github.com/techsadiya)
